@@ -1,0 +1,8 @@
+[package]
+name = "xdg-desktop-entries"
+version = "0.1.0"
+edition = "2024"
+license = "GPL-2.0-or-later"
+description = "A simple parser for xdg/freedesktop desktop entries"
+keywords = ["linux", "desktop", "freedesktop", "xdg", "entry"]
+categories = ["parser-implementations"]
